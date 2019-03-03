@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Animated Tab Bar",
-    "slug": "react-native-animated-tab-bar",
+    "name": "Bubble Tab Bar",
+    "slug": "react-native-bubble-tab-bar",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
